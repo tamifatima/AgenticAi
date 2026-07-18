@@ -1,0 +1,50 @@
+Machine Learning Basics
+
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and make predictions or decisions without being explicitly programmed. Instead of following fixed rules, machine learning algorithms identify patterns in data and improve their performance over time as they are exposed to more information.
+
+Types of Machine Learning:
+1. Supervised Learning
+   - Learns from labeled data.
+   - Examples: Email spam detection, house price prediction.
+
+2. Unsupervised Learning
+   - Finds hidden patterns in unlabeled data.
+   - Examples: Customer segmentation, clustering.
+
+3. Reinforcement Learning
+   - Learns by interacting with an environment through rewards and penalties.
+   - Examples: Robotics, game-playing AI.
+
+Common Machine Learning Algorithms:
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Neural Networks
+
+Applications of Machine Learning:
+- Image and speech recognition
+- Recommendation systems
+- Fraud detection
+- Medical diagnosis
+- Autonomous vehicles
+- Predictive analytics
+- Natural Language Processing (NLP)
+
+Advantages:
+- Automates decision-making.
+- Handles large amounts of data efficiently.
+- Improves accuracy with experience.
+- Discovers hidden patterns in data.
+
+Challenges:
+- Requires high-quality data.
+- Can be computationally expensive.
+- May suffer from overfitting or underfitting.
+- Ethical and privacy concerns.
+
+Conclusion:
+Machine Learning is transforming industries by enabling intelligent systems that can analyze data, recognize patterns, and make informed decisions. It is one of the fastest-growing fields in computer science and plays a key role in modern AI applications.

@@ -1,0 +1,19 @@
+Introduction to Python
+
+Python is a high-level, interpreted programming language known for its simple and readable syntax. It was created by Guido van Rossum and first released in 1991. Python is widely used for web development, data science, artificial intelligence, machine learning, automation, game development, and software engineering.
+
+One of Python's greatest strengths is its ease of learning, making it an excellent choice for beginners. It also has a vast standard library and a large community that provides countless third-party packages for various applications.
+
+Key Features of Python:
+- Simple and easy-to-read syntax
+- Cross-platform compatibility
+- Open-source and free to use
+- Supports object-oriented, procedural, and functional programming
+- Extensive libraries and frameworks
+- Large and active developer community
+
+Example Program:
+
+print("Hello, World!")
+
+This program displays the message "Hello, World!" on the screen, which is traditionally the first program written when learning a new programming language.
